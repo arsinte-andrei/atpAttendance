@@ -1,0 +1,195 @@
+
+Debug: Card UID:  "3659f2c5"
+Debug: PICC type:  "MIFARE 1KB"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  0 :  "3659f2c5580804006263646566676869"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  1 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  2 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  3 :  "000000000000ff078069ffffffffffff"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  4 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  5 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  6 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  7 :  "000000000000ff078069ffffffffffff"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  8 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  9 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  10 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  11 :  "000000000000ff078069ffffffffffff"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  12 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  13 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  14 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  15 :  "000000000000ff078069ffffffffffff"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  16 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  17 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  18 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  19 :  "000000000000ff078069ffffffffffff"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  20 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  21 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  22 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  23 :  "000000000000ff078069ffffffffffff"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  24 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  25 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  26 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  27 :  "000000000000ff078069ffffffffffff"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  28 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  29 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  30 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  31 :  "000000000000ff078069ffffffffffff"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  32 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  33 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  34 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  35 :  "000000000000ff078069ffffffffffff"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  36 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  37 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  38 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  39 :  "000000000000ff078069ffffffffffff"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  40 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  41 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  42 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  43 :  "000000000000ff078069ffffffffffff"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  44 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  45 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  46 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  47 :  "000000000000ff078069ffffffffffff"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  48 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  49 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  50 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  51 :  "000000000000ff078069ffffffffffff"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  52 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  53 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  54 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  55 :  "000000000000ff078069ffffffffffff"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  56 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  57 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  58 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  59 :  "000000000000ff078069ffffffffffff"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  60 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  61 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  62 :  "00000000000000000000000000000000"
+
+Debug: Success with key:  "ffffffffffff"
+Debug: Block  63 :  "000000000000ff078069ffffffffffff"
